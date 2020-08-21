@@ -1,4 +1,4 @@
-# This repository contains my course work on HMM-model at Udacity
+## This repository contains my course work on HMM-model at Udacity
 
 ## Introduction
 
